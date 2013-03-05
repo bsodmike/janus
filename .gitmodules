@@ -1,3 +1,6 @@
 [submodule "vim-sparkup"]
 	path = vim-sparkup
 	url = git@github.com:tristen/vim-sparkup.git
+[submodule "zencoding-vim"]
+	path = zencoding-vim
+	url = http://github.com/mattn/zencoding-vim.git
