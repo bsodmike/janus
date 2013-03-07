@@ -4,3 +4,7 @@
 [submodule "zencoding-vim"]
 	path = zencoding-vim
 	url = http://github.com/mattn/zencoding-vim.git
+[submodule "argokai"]
+	path = argokai
+	url = https://github.com/rey-wright/argokai.git
+
