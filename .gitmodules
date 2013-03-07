@@ -7,4 +7,6 @@
 [submodule "argokai"]
 	path = argokai
 	url = https://github.com/rey-wright/argokai.git
-
+[submodule "vim-signify"]
+	path = vim-signify
+	url = https://github.com/mhinz/vim-signify.git
