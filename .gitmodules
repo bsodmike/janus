@@ -16,3 +16,6 @@
 [submodule "vim-sparkup"]
 	path = vim-sparkup
 	url = https://github.com/tristen/vim-sparkup.git
+[submodule "vim-rails"]
+	path = vim-rails
+	url = https://github.com/tpope/vim-rails.git
