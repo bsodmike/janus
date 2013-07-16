@@ -19,3 +19,9 @@
 [submodule "vim-rails"]
 	path = vim-rails
 	url = https://github.com/tpope/vim-rails.git
+[submodule "vim-surround"]
+	path = vim-surround
+	url = git@github.com:tpope/vim-surround.git
+[submodule "gist-vim"]
+	path = gist-vim
+	url = git@github.com:mattn/gist-vim.git
