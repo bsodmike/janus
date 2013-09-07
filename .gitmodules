@@ -25,3 +25,6 @@
 [submodule "gist-vim"]
 	path = gist-vim
 	url = git@github.com:mattn/gist-vim.git
+[submodule "vim-handlebars"]
+	path = vim-handlebars
+	url = git://github.com/nono/vim-handlebars.git
