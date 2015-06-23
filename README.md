@@ -1,5 +1,11 @@
 # .janus
 
+To add plugins to this repo, add them as git submodules, for example,
+
+```
+$ git submodule add git://github.com/toyamarinyon/vim-swift.git
+```
+
 ## Installation
 
 1. Install [JANUS](https://github.com/carlhuda/janus).
