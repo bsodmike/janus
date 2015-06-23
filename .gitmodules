@@ -28,3 +28,6 @@
 [submodule "vim-handlebars"]
 	path = vim-handlebars
 	url = git://github.com/nono/vim-handlebars.git
+[submodule "vim-swift"]
+	path = vim-swift
+	url = git://github.com/toyamarinyon/vim-swift.git
