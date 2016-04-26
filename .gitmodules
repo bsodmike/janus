@@ -40,3 +40,9 @@
 [submodule "vim-textobj-user"]
 	path = vim-textobj-user
 	url = git@github.com:kana/vim-textobj-user.git
+[submodule "yajs.vim"]
+	path = yajs.vim
+	url = git@github.com:othree/yajs.vim.git
+[submodule "vim-js-context-coloring"]
+	path = vim-js-context-coloring
+	url = git@github.com:bigfish/vim-js-context-coloring.git
