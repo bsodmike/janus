@@ -34,3 +34,9 @@
 [submodule "emmet-vim"]
 	path = emmet-vim
 	url = git@github.com:mattn/emmet-vim.git
+[submodule "vim-textobj-rubyblock"]
+	path = vim-textobj-rubyblock
+	url = git@github.com:nelstrom/vim-textobj-rubyblock.git
+[submodule "vim-textobj-user"]
+	path = vim-textobj-user
+	url = git@github.com:kana/vim-textobj-user.git
